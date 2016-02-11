@@ -18,7 +18,7 @@
 
 -------------------
 
-## Watch and execute 12 After Effects Tutorials(0/12)
+## Watch and execute 12 After Effects Tutorials (0/12)
 
 -------------------
 
