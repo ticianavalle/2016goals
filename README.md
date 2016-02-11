@@ -11,7 +11,8 @@
 
 -------------------
 
-## Watch 24 TedTalks (0/24)
+## Watch 24 TedTalks (1/24)
+1. https://www.ted.com/talks/john_maeda_how_art_technology_and_design_inform_creative_leaders#t-293309
 
 -------------------
 
