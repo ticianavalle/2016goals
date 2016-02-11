@@ -1,5 +1,7 @@
 # Personal goals for 2016
 
+## Update my CV and create my portfolio
+
 ## Read 1 book a month (1/12)
 1. January - Inferno by Dan Brown
 2. February - The Shack by William P. Young
