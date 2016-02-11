@@ -1,8 +1,8 @@
 # Personal goals for 2016
 
 ## Read 1 book a month (1/12)
-January - Inferno by Dan Brown
-February - The Shack by William P. Young
+1. January - Inferno by Dan Brown
+2. February - The Shack by William P. Young
 
 -------------------
 
