@@ -10,6 +10,7 @@
 
 ## Finish at least 8 games from my backlog (1/8)
 1. Rise of the Tomb Raider
+2. Life is Strange
 
 -------------------
 
