@@ -22,3 +22,7 @@
 
 -------------------
 
+## Read 366 articles (1/366)
+1. https://www.linkedin.com/pulse/gamification-na-educa%C3%A7%C3%A3o-wagner-cassimiro?trk=hp-feed-article-title-like
+
+-------------------
