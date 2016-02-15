@@ -18,7 +18,6 @@
 7. Lords of the Fallen
 8. Shadow of Mordor
 9. Tomb Raider (XOne)
-10. 
 
 -------------------
 
