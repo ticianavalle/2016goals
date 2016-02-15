@@ -12,6 +12,7 @@
 1. Rise of the Tomb Raider
 2. Life is Strange
 3. Limbo
+4. The Witcher 2
 
 -------------------
 
