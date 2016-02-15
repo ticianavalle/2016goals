@@ -8,7 +8,7 @@
 
 -------------------
 
-## Finish at least 16 games from my backlog (1/16)
+## Finish at least 16 games from my library (2/16)
 1. Rise of the Tomb Raider
 2. Life is Strange
 3. Limbo
