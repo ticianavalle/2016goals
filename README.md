@@ -19,6 +19,7 @@
 8. Shadow of Mordor
 9. Tomb Raider (XOne)
 10. Thief (Xone)
+11. The Walking Dead (XOne)
 
 -------------------
 
