@@ -12,14 +12,7 @@
 1. Rise of the Tomb Raider
 2. Life is Strange
 3. Limbo
-4. The Witcher 2
-5. Child of Light (XOne)
-6. Max and the curse of Brotherhood (XOne)
-7. Lords of the Fallen
-8. Shadow of Mordor
-9. Tomb Raider (XOne)
-10. Thief (Xone)
-11. The Walking Dead (XOne)
+
 
 -------------------
 
