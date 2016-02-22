@@ -5,11 +5,11 @@
 ## Read 1 book a month (2/12)
 1. January - Inferno by Dan Brown
 2. February - The Shack by William P. Young
-3 . March - The Hitchhiker's Guide to the Galaxy - Douglas Adams
+3 . March - The Casual Vacancy by JK Rowling
 
 -------------------
 
-## Finish at least 16 games from my library (2/16)
+## Finish at least 16 games from my library (3/16)
 1. Rise of the Tomb Raider
 2. Life is Strange
 3. Limbo
