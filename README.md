@@ -22,14 +22,11 @@
 ## Watch 24 TedTalks (1/24)
 1. https://www.ted.com/talks/john_maeda_how_art_technology_and_design_inform_creative_leaders#t-293309
 2. https://www.ted.com/talks/gabe_zichermann_how_games_make_kids_smarter
+3. https://www.ted.com/talks/brenda_laurel_on_making_games_for_girls
 
 -------------------
 
-## Watch and execute 12 After Effects Tutorials (0/12)
-
--------------------
-
-## Read 366 articles (5/366)
+## Read 100 articles (5/100)
 1. https://www.linkedin.com/pulse/gamification-na-educa%C3%A7%C3%A3o-wagner-cassimiro?trk=hp-feed-article-title-like
 2. https://medium.com/@carvalho.icaro/o-que-diabos-aconteceu-com-geração-y-73cd16ccc5c9#.l49bh3s6s
 3. https://www.linkedin.com/pulse/como-anda-seu-marketing-pessoal-sofia-esteves
