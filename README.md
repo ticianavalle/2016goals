@@ -13,8 +13,8 @@
 1. Rise of the Tomb Raider
 2. Life is Strange
 3. Limbo
-4. Witcher 2 - Assassins of Kings
-5. The Beatles Rock Band
+4. The Witcher 2 - Assassins of Kings *playing
+5. The Beatles Rock Band *playing
 
 
 -------------------
