@@ -5,7 +5,7 @@
 ## Read 1 book a month (2/12)
 1. January - Inferno by Dan Brown
 2. February - The Shack by William P. Young
-3 . March - The Casual Vacancy by JK Rowling
+3. March - The Casual Vacancy by JK Rowling
 
 -------------------
 
@@ -14,6 +14,7 @@
 2. Life is Strange
 3. Limbo
 4. Witcher 2 - Assassins of Kings
+5. The Beatles Rock Band
 
 
 -------------------
