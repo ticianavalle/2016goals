@@ -16,7 +16,6 @@
 4. The Witcher 2 - Assassins of Kings *playing
 5. The Beatles Rock Band *playing
 
-
 -------------------
 
 ## Watch 24 TedTalks (1/24)
@@ -35,3 +34,13 @@
 6. 
 
 -------------------
+
+## Watch all Oscar nominees (2/8)
+1. Mad Max
+2. The Martian
+3. Room
+4. Spotlight
+5. Brooklyn
+6. The Revenant
+7. Bridg of Spies
+8. The Big Short
