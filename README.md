@@ -42,5 +42,5 @@
 4. Spotlight
 5. Brooklyn
 6. The Revenant
-7. Bridg of Spies
+7. Bridge of Spies
 8. The Big Short
