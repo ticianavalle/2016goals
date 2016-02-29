@@ -40,9 +40,9 @@
 ## Watch all Oscar 2016 nominees (5/8)
 1. Mad Max
 2. The Martian
-3. Room
+3. Room *
 4. Spotlight
 5. Brooklyn
-6. The Revenant - NOK
+6. The Revenant *
 7. Bridge of Spies
-8. The Big Short - NOK
+8. The Big Short *
