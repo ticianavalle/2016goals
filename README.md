@@ -15,6 +15,8 @@
 3. Limbo
 4. The Witcher 2 - Assassins of Kings *playing
 5. The Beatles Rock Band *playing
+6. Super Paper Mario *playing
+7. The Legend of Zelda Spirit Tracks *playing
 
 -------------------
 
@@ -35,12 +37,12 @@
 
 -------------------
 
-## Watch all Oscar nominees (2/8)
+## Watch all Oscar 2016 nominees (5/8)
 1. Mad Max
 2. The Martian
 3. Room
 4. Spotlight
 5. Brooklyn
-6. The Revenant
+6. The Revenant - NOK
 7. Bridge of Spies
-8. The Big Short
+8. The Big Short - NOK
