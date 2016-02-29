@@ -17,6 +17,7 @@
 5. The Beatles Rock Band *playing
 6. Super Paper Mario *playing
 7. The Legend of Zelda Spirit Tracks *playing
+8. The Legend of Zelda Twilight Princess *playing
 
 -------------------
 
