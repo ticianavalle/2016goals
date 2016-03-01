@@ -38,7 +38,7 @@
 
 -------------------
 
-## Watch all Oscar 2016 nominees (5/8)
+## Watch all Oscar 2016 nominees (6/8)
 1. Mad Max
 2. The Martian
 3. Room *
