@@ -41,7 +41,7 @@
 ## Watch all Oscar 2016 nominees (6/8)
 1. Mad Max
 2. The Martian
-3. Room *
+3. Room 
 4. Spotlight
 5. Brooklyn
 6. The Revenant *
