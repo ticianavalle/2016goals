@@ -28,13 +28,16 @@
 
 -------------------
 
-## Read 100 articles (5/100)
+## Read 100 articles (9/100)
 1. https://www.linkedin.com/pulse/gamification-na-educa%C3%A7%C3%A3o-wagner-cassimiro?trk=hp-feed-article-title-like
 2. https://medium.com/@carvalho.icaro/o-que-diabos-aconteceu-com-geração-y-73cd16ccc5c9#.l49bh3s6s
 3. https://www.linkedin.com/pulse/como-anda-seu-marketing-pessoal-sofia-esteves
 4. https://medium.com/@eduardocarmello/a-tristeza-que-dá-nos-funcionários-de-uma-organização-ao-ver-talentos-inteligentes-e-éticos-indo-ce0ba36ffb04#.yetxbw35i
 5. https://www.linkedin.com/pulse/tomar-um-p%C3%A9-na-bunda-foi-melhor-coisa-que-poderia-ter-ana-maria-braga
-6. 
+6. https://www.linkedin.com/pulse/recrutadores-transformaram-propostas-de-emprego-em-show-fabio-santos?trk=eml-b2_content_ecosystem_digest-recommended_articles-45-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=2jGkaJ82W5wT81
+7. https://www.linkedin.com/pulse/voc%C3%AA-vive-ou-s%C3%B3-existe-sobre-os-sonhos-que-deixamos-morrer-gamonar
+8. http://dinheirama.com/blog/2016/02/03/fuja-casa-propria-morar-aluguel-otima-alternativa/
+9. http://www.windowsclub.com.br/adeus-console-microsoft-transformara-o-xbox-em-um-pc-hibrido-em-uma-plataforma-universal/
 
 -------------------
 
