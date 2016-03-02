@@ -21,7 +21,7 @@
 
 -------------------
 
-## Watch 24 TedTalks (2/24)
+## Watch 24 TedTalks (3/24)
 1. https://www.ted.com/talks/john_maeda_how_art_technology_and_design_inform_creative_leaders#t-293309
 2. https://www.ted.com/talks/gabe_zichermann_how_games_make_kids_smarter
 3. https://www.ted.com/talks/brenda_laurel_on_making_games_for_girls
