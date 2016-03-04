@@ -28,7 +28,7 @@
 
 -------------------
 
-## Read 100 articles (10/100)
+## Read 100 articles (11/100)
 1. https://www.linkedin.com/pulse/gamification-na-educa%C3%A7%C3%A3o-wagner-cassimiro?trk=hp-feed-article-title-like
 2. https://medium.com/@carvalho.icaro/o-que-diabos-aconteceu-com-geração-y-73cd16ccc5c9#.l49bh3s6s
 3. https://www.linkedin.com/pulse/como-anda-seu-marketing-pessoal-sofia-esteves
@@ -39,6 +39,7 @@
 8. http://dinheirama.com/blog/2016/02/03/fuja-casa-propria-morar-aluguel-otima-alternativa/
 9. http://www.windowsclub.com.br/adeus-console-microsoft-transformara-o-xbox-em-um-pc-hibrido-em-uma-plataforma-universal/
 10. http://www.positivoteceduc.com.br/em-pauta/martha-gabriel-aborda-aprendizagem-ativa-e-tecnologia/
+11. http://brasil.elpais.com/brasil/2016/01/15/tecnologia/1452852920_965932.html
 
 -------------------
 
