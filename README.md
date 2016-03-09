@@ -28,7 +28,7 @@
 
 -------------------
 
-## Read 100 articles (13/100)
+## Read 100 articles (14/100)
 1. https://www.linkedin.com/pulse/gamification-na-educa%C3%A7%C3%A3o-wagner-cassimiro?trk=hp-feed-article-title-like
 2. https://medium.com/@carvalho.icaro/o-que-diabos-aconteceu-com-geração-y-73cd16ccc5c9#.l49bh3s6s
 3. https://www.linkedin.com/pulse/como-anda-seu-marketing-pessoal-sofia-esteves
@@ -42,6 +42,7 @@
 11. http://brasil.elpais.com/brasil/2016/01/15/tecnologia/1452852920_965932.html
 12. https://www.linkedin.com/pulse/o-desabafo-de-uma-gera%C3%A7%C3%A3o-que-nunca-tem-tempo-luana-sarantopoulos?trk=eml-b2_content_ecosystem_digest-recommended_articles-57-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=1tNEMIkE_LGD81
 13. http://lounge.obviousmag.org/impropriedade_privada/2015/10/passei-dos-25-e-nao-fiz-tudo-o-que-planejei-fiz-o-que-pude.html
+14. http://www.polygon.com/features/2016/3/7/11162050/words-rhianna-pratchett-and-the-meaning-of-lara-croft
 
 -------------------
 
