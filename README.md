@@ -21,10 +21,13 @@
 
 -------------------
 
-## Watch 24 TedTalks (3/24)
+## Watch 24 TedTalks (4/24)
 1. https://www.ted.com/talks/john_maeda_how_art_technology_and_design_inform_creative_leaders#t-293309
 2. https://www.ted.com/talks/gabe_zichermann_how_games_make_kids_smarter
 3. https://www.ted.com/talks/brenda_laurel_on_making_games_for_girls
+4. https://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_years_of_life
+5. https://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world#t-81496
+6. https://www.ted.com/talks/david_perry_on_videogames
 
 -------------------
 
