@@ -6,6 +6,7 @@
 1. January - Inferno by Dan Brown
 2. February - The Shack by William P. Young
 3. March - The Casual Vacancy by J.K. Rowling
+4. April - The Hitchhiker's Guide to the Galaxy by Douglas Adams
 
 -------------------
 
@@ -30,7 +31,7 @@
 
 -------------------
 
-## Read 100 articles (14/100)
+## Read 100 articles (17/100)
 1. https://www.linkedin.com/pulse/gamification-na-educa%C3%A7%C3%A3o-wagner-cassimiro?trk=hp-feed-article-title-like
 2. https://medium.com/@carvalho.icaro/o-que-diabos-aconteceu-com-geração-y-73cd16ccc5c9#.l49bh3s6s
 3. https://www.linkedin.com/pulse/como-anda-seu-marketing-pessoal-sofia-esteves
@@ -45,6 +46,9 @@
 12. https://www.linkedin.com/pulse/o-desabafo-de-uma-gera%C3%A7%C3%A3o-que-nunca-tem-tempo-luana-sarantopoulos?trk=eml-b2_content_ecosystem_digest-recommended_articles-57-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=1tNEMIkE_LGD81
 13. http://lounge.obviousmag.org/impropriedade_privada/2015/10/passei-dos-25-e-nao-fiz-tudo-o-que-planejei-fiz-o-que-pude.html
 14. http://www.polygon.com/features/2016/3/7/11162050/words-rhianna-pratchett-and-the-meaning-of-lara-croft
+15. http://exame.abril.com.br/carreira/noticias/o-mau-humor-do-seu-colega-de-trabalho-pode-contaminar
+16. http://chocoladesign.com/mas-e-entao-o-que-um-ux-designer-faz
+17. http://www.sabiaspalavras.com/estar-feliz-e-solteira-me-ensinou-a-ser-mais-exigente-2/
 
 -------------------
 
