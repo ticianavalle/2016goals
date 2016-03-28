@@ -9,11 +9,11 @@
 
 -------------------
 
-## Finish at least 16 games from my library (3/16)
+## Finish at least 16 games from my library (4/16)
 1. Rise of the Tomb Raider
 2. Life is Strange
 3. Limbo
-4. The Witcher 2 - Assassins of Kings *playing
+4. The Witcher 2 - Assassins of Kings
 5. The Beatles Rock Band *playing
 6. Super Paper Mario *playing
 7. The Legend of Zelda Spirit Tracks *playing
