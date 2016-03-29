@@ -19,6 +19,14 @@
 6. Super Paper Mario *playing
 7. The Legend of Zelda Spirit Tracks *playing
 8. The Legend of Zelda Twilight Princess *playing
+9. Ryse son of rome
+10. The Walking Dead Season 1
+11. The Wolf among us
+12. Ori and the blind forest definitive edition
+13. Sonic Unleashed
+14. The Witcher 3
+15. Lost in Shadow
+16. Lego Batman 
 
 -------------------
 
