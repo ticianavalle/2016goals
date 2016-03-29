@@ -5,28 +5,31 @@
 ## Read 1 book a month (2/12)
 1. January - Inferno by Dan Brown
 2. February - The Shack by William P. Young
-3. March - The Casual Vacancy by J.K. Rowling
-4. April - The Hitchhiker's Guide to the Galaxy by Douglas Adams
+3. March - The Casual Vacancy by J.K. Rowling *reading
+4. April - The Hitchhiker's Guide to the Galaxy by Douglas Adams | The Casual Vacancy by J.K. Rowling
+5. May - A Storm of Swords by George RR Martin | The Last Wish by Andrzej Sapkowski
 
 -------------------
 
 ## Finish at least 16 games from my library (4/16)
+XOne
 1. Rise of the Tomb Raider
 2. Life is Strange
 3. Limbo
 4. The Witcher 2 - Assassins of Kings
-5. The Beatles Rock Band *playing
-6. Super Paper Mario *playing
-7. The Legend of Zelda Spirit Tracks *playing
-8. The Legend of Zelda Twilight Princess *playing
-9. Ryse son of rome
-10. The Walking Dead Season 1
-11. The Wolf among us
-12. Ori and the blind forest definitive edition
-13. Sonic Unleashed
-14. The Witcher 3
-15. Lost in Shadow
-16. Lego Batman 
+5. The Witcher 3 - The Wild Hunt *
+6. Ryse son of rome *
+7. The Walking Dead Season 1 *
+8. The Wolf among us *
+9. Ori and the blind forest definitive edition *
+Wii/WiiU
+10. The Beatles Rock Band *playing
+11. Super Paper Mario *playing
+12. The Legend of Zelda Spirit Tracks *playing
+13. The Legend of Zelda Twilight Princess *playing
+14. Sonic Unleashed *playing
+15. Lego The Hobbit *
+16. Lego Batman *
 
 -------------------
 
