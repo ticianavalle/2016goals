@@ -12,7 +12,7 @@
 -------------------
 
 ## Finish at least 16 games from my library (4/16)
-XOne
+### XOne
 1. Rise of the Tomb Raider
 2. Life is Strange
 3. Limbo
@@ -22,7 +22,8 @@ XOne
 7. The Walking Dead Season 1 *
 8. The Wolf among us *
 9. Ori and the blind forest definitive edition *
-Wii/WiiU
+
+### Wii/WiiU
 10. The Beatles Rock Band *playing
 11. Super Paper Mario *playing
 12. The Legend of Zelda Spirit Tracks *playing
