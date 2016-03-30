@@ -61,6 +61,9 @@
 15. http://exame.abril.com.br/carreira/noticias/o-mau-humor-do-seu-colega-de-trabalho-pode-contaminar
 16. http://chocoladesign.com/mas-e-entao-o-que-um-ux-designer-faz
 17. http://www.sabiaspalavras.com/estar-feliz-e-solteira-me-ensinou-a-ser-mais-exigente-2/
+18. https://www.linkedin.com/pulse/voc%C3%AA-j%C3%A1-est%C3%A1-demitido-e-n%C3%A3o-sabe-andr%C3%A9-foresti?trk=eml-b2_content_ecosystem_digest-recommended_articles-45-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=0IhkOfCTA88nc1
+19. https://www.linkedin.com/pulse/o-que-eu-n%C3%A3o-aprendi-ao-ficar-desempregada-giovanna-rossin?trk=eml-b2_content_ecosystem_digest-recommended_articles-57-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=0alRFMkKM88nc1
+20. 
 
 -------------------
 
