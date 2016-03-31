@@ -29,8 +29,8 @@
 12. The Legend of Zelda Spirit Tracks *playing
 13. The Legend of Zelda Twilight Princess *playing
 14. Sonic Unleashed *playing
-15. Prince of Persia Sands of Time *playing
-16. Lost in Shadow *
+15. Prince of Persia - The Forgotten Sands *playing
+16. Star Wars - The Force Unleashed 2 *playing
 
 -------------------
 
