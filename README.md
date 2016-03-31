@@ -5,7 +5,7 @@
 ## Read 1 book a month (2/12)
 1. January - Inferno by Dan Brown
 2. February - The Shack by William P. Young
-3. March - The Casual Vacancy by J.K. Rowling *reading
+3. March - The Casual Vacancy by J.K. Rowling
 4. April - The Hitchhiker's Guide to the Galaxy by Douglas Adams | The Casual Vacancy by J.K. Rowling
 5. May - A Storm of Swords by George RR Martin | The Last Wish by Andrzej Sapkowski
 
@@ -29,8 +29,8 @@
 12. The Legend of Zelda Spirit Tracks *playing
 13. The Legend of Zelda Twilight Princess *playing
 14. Sonic Unleashed *playing
-15. Lego The Hobbit *
-16. Lego Batman *
+15. Prince of Persia Sands of Time *playing
+16. Lost in Shadow *
 
 -------------------
 
