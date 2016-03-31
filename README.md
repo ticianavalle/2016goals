@@ -11,7 +11,7 @@
 
 -------------------
 
-## Finish at least 16 games from my library (4/16)
+## Finish at least 16 games from my library (5/16)
 ### XOne
 1. Rise of the Tomb Raider
 2. Life is Strange
@@ -24,7 +24,7 @@
 9. Ori and the blind forest definitive edition *
 
 ### Wii/WiiU
-10. The Beatles Rock Band *playing
+10. The Beatles Rock Band
 11. Super Paper Mario *playing
 12. The Legend of Zelda Spirit Tracks *playing
 13. The Legend of Zelda Twilight Princess *playing
