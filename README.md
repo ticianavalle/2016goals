@@ -34,16 +34,17 @@
 
 -------------------
 
-## Watch 24 TedTalks (4/24)
+## Watch 24 TedTalks (6/24)
 1. https://www.ted.com/talks/john_maeda_how_art_technology_and_design_inform_creative_leaders#t-293309
 2. https://www.ted.com/talks/gabe_zichermann_how_games_make_kids_smarter
 3. https://www.ted.com/talks/brenda_laurel_on_making_games_for_girls
 4. https://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_years_of_life
 5. https://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world#t-81496
+6. https://www.ted.com/talks/yves_morieux_how_too_many_rules_at_work_keep_you_from_getting_things_done#t-9538
 
 -------------------
 
-## Read 100 articles (19/100)
+## Read 100 articles (21/100)
 1. https://www.linkedin.com/pulse/gamification-na-educa%C3%A7%C3%A3o-wagner-cassimiro?trk=hp-feed-article-title-like
 2. https://medium.com/@carvalho.icaro/o-que-diabos-aconteceu-com-geração-y-73cd16ccc5c9#.l49bh3s6s
 3. https://www.linkedin.com/pulse/como-anda-seu-marketing-pessoal-sofia-esteves
@@ -63,7 +64,8 @@
 17. http://www.sabiaspalavras.com/estar-feliz-e-solteira-me-ensinou-a-ser-mais-exigente-2/
 18. https://www.linkedin.com/pulse/voc%C3%AA-j%C3%A1-est%C3%A1-demitido-e-n%C3%A3o-sabe-andr%C3%A9-foresti?trk=eml-b2_content_ecosystem_digest-recommended_articles-45-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=0IhkOfCTA88nc1
 19. https://www.linkedin.com/pulse/o-que-eu-n%C3%A3o-aprendi-ao-ficar-desempregada-giovanna-rossin?trk=eml-b2_content_ecosystem_digest-recommended_articles-57-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=0alRFMkKM88nc1
-20. 
+20. https://www.linkedin.com/pulse/7-dicas-macetes-e-apps-que-uso-para-organizar-o-meu-dia-caetano?trk=eml-b2_content_ecosystem_digest-recommended_articles-57-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=1J0J0WF3Zpi7c1
+21. https://www.linkedin.com/pulse/estes-5-sinais-indicam-que-definitivamente-voc%C3%AA-est%C3%A1-de-marc-tawil?trk=eml-b2_content_ecosystem_digest-recommended_articles-69-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=0u9BspO6tsi7c1
 
 -------------------
 
