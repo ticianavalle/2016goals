@@ -22,15 +22,15 @@
 7. The Walking Dead Season 1 *
 8. The Wolf among us *
 9. Ori and the blind forest definitive edition *
+10. Shadow of Mordor *
 
-### Wii/WiiU
-10. The Beatles Rock Band
-11. Super Paper Mario *playing
-12. The Legend of Zelda Spirit Tracks *playing
-13. The Legend of Zelda Twilight Princess *playing
+### Wii/WiiU/3DS/DS Lite
+11. The Beatles Rock Band
+12. Super Paper Mario *playing
+13. Star Wars - The Force Unleashed 2 *playing
 14. Sonic Unleashed *playing
-15. Prince of Persia - The Forgotten Sands *playing
-16. Star Wars - The Force Unleashed 2 *playing
+15. The Legend of Zelda Spirit Tracks *playing
+16. The Legend of Zelda Twilight Princess *playing
 
 -------------------
 
