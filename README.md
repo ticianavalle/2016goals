@@ -6,8 +6,8 @@
 1. January - Inferno by Dan Brown
 2. February - The Shack by William P. Young
 3. March - The Casual Vacancy by J.K. Rowling
-4. April - The Hitchhiker's Guide to the Galaxy by Douglas Adams | The Casual Vacancy by J.K. Rowling
-5. May - A Storm of Swords by George RR Martin | The Last Wish by Andrzej Sapkowski
+4. April - The Hitchhiker's Guide to the Galaxy by Douglas Adams 
+5. May - A Storm of Swords by George RR Martin | The Last Wish by Andrzej Sapkowski | The Casual Vacancy by J.K. Rowling
 
 -------------------
 
