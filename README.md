@@ -11,7 +11,7 @@
 
 -------------------
 
-## Finish at least 16 games from my library (5/16)
+## Finish at least 16 games from my library (6/16)
 ### XOne
 1. Rise of the Tomb Raider
 2. Life is Strange
@@ -26,7 +26,7 @@
 
 ### Wii/WiiU/3DS/DS Lite
 11. The Beatles Rock Band
-12. Super Paper Mario *playing
+12. Super Paper Mario
 13. Star Wars - The Force Unleashed 2 *playing
 14. Sonic Unleashed *playing
 15. The Legend of Zelda Spirit Tracks *playing
