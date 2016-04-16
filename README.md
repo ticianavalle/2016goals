@@ -22,9 +22,9 @@
 7. The Walking Dead Season 1 *
 8. The Wolf among us *
 9. Ori and the blind forest definitive edition *
-10. Shadow of Mordor *
 
 ### Wii/WiiU/3DS/DS Lite
+10. Watch Dogs *
 11. The Beatles Rock Band
 12. Super Paper Mario
 13. Star Wars - The Force Unleashed 2 *playing
