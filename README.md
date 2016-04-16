@@ -28,8 +28,8 @@
 11. The Beatles Rock Band
 12. Super Paper Mario
 13. Star Wars - The Force Unleashed 2 *playing
-14. Sonic Unleashed *playing
-15. The Legend of Zelda Spirit Tracks *playing
+14. The Legend of Zelda Spirit Tracks *playing
+15. Sonic Unleashed *playing
 16. The Legend of Zelda Twilight Princess *playing
 
 -------------------
