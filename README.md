@@ -12,7 +12,7 @@
 -------------------
 
 ## Finish at least 16 games from my library (6/16)
-### XOne
+### Xbox360/XOne
 1. Rise of the Tomb Raider
 2. Life is Strange
 3. Limbo
