@@ -44,7 +44,7 @@
 
 -------------------
 
-## Read 100 articles (22/100)
+## Read 100 articles (23/100)
 1. https://www.linkedin.com/pulse/gamification-na-educa%C3%A7%C3%A3o-wagner-cassimiro?trk=hp-feed-article-title-like
 2. https://medium.com/@carvalho.icaro/o-que-diabos-aconteceu-com-geração-y-73cd16ccc5c9#.l49bh3s6s
 3. https://www.linkedin.com/pulse/como-anda-seu-marketing-pessoal-sofia-esteves
@@ -67,6 +67,7 @@
 20. https://www.linkedin.com/pulse/7-dicas-macetes-e-apps-que-uso-para-organizar-o-meu-dia-caetano?trk=eml-b2_content_ecosystem_digest-recommended_articles-57-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=1J0J0WF3Zpi7c1
 21. https://www.linkedin.com/pulse/estes-5-sinais-indicam-que-definitivamente-voc%C3%AA-est%C3%A1-de-marc-tawil?trk=eml-b2_content_ecosystem_digest-recommended_articles-69-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=0u9BspO6tsi7c1
 22. http://www.revistawide.com.br/tecnologia/5-habilidades-para-se-tornar-um-ceo-campeao
+23. https://www.entrepreneur.com/article/273414
 
 -------------------
 
