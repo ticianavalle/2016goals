@@ -11,7 +11,7 @@
 
 -------------------
 
-## Finish at least 16 games from my library (6/16)
+## Finish at least 16 games from my library (7/16)
 ### Xbox360/XOne
 1. Rise of the Tomb Raider
 2. Life is Strange
@@ -27,7 +27,7 @@
 10. Watch Dogs *
 11. The Beatles Rock Band
 12. Super Paper Mario
-13. Star Wars - The Force Unleashed 2 *playing
+13. Star Wars - The Force Unleashed 2
 14. The Legend of Zelda Spirit Tracks *playing
 15. Sonic Unleashed *playing
 16. The Legend of Zelda Twilight Princess *playing
