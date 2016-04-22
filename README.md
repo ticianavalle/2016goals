@@ -13,10 +13,10 @@
 
 ## Finish at least 16 games from my library (7/16)
 ### Xbox360/XOne
-1. Rise of the Tomb Raider
-2. Life is Strange
-3. Limbo
-4. The Witcher 2 - Assassins of Kings
+1. Rise of the Tomb Raider - finished
+2. Life is Strange - finished
+3. Limbo - finished
+4. The Witcher 2 - Assassins of Kings - finished
 5. The Witcher 3 - The Wild Hunt *
 6. Ryse son of rome *
 7. The Walking Dead Season 1 *
@@ -24,10 +24,10 @@
 9. Ori and the blind forest definitive edition *
 
 ### Wii/WiiU/3DS/DS Lite
-10. Watch Dogs *
-11. The Beatles Rock Band
-12. Super Paper Mario
-13. Star Wars - The Force Unleashed 2
+10. Watch Dogs *playing
+11. The Beatles Rock Band - finished
+12. Super Paper Mario - finished
+13. Star Wars - The Force Unleashed 2 - finished
 14. The Legend of Zelda Spirit Tracks *playing
 15. Sonic Unleashed *playing
 16. The Legend of Zelda Twilight Princess *playing
