@@ -45,7 +45,7 @@
 
 -------------------
 
-## Read 100 articles (29/100)
+## Read 100 articles (33/100)
 1. https://www.linkedin.com/pulse/gamification-na-educa%C3%A7%C3%A3o-wagner-cassimiro?trk=hp-feed-article-title-like
 2. https://medium.com/@carvalho.icaro/o-que-diabos-aconteceu-com-geração-y-73cd16ccc5c9#.l49bh3s6s
 3. https://www.linkedin.com/pulse/como-anda-seu-marketing-pessoal-sofia-esteves
@@ -75,7 +75,11 @@
 27. https://www.linkedin.com/pulse/brasil-em-crise-quais-leis-o-congresso-est%C3%A1-aprovando-leandro-demori?trk=eml-b2_content_ecosystem_digest-recommended_articles-45-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=0TNzhnSphiBTc1
 28. https://www.linkedin.com/pulse/provedores-de-internet-cometem-crime-ao-cobrar-por-consumo-demori?trk=eml-b2_content_ecosystem_digest-recommended_articles-63-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=3kVX15olxpBTc1
 29. https://www.linkedin.com/pulse/o-emprego-da-sua-vida-talvez-ainda-n%C3%A3o-exista-marcela-pican%C3%A7o?trk=eml-b2_content_ecosystem_digest-recommended_articles-63-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=2rn5OQaSiiLDc1
-30. 
+30. https://rejanesantos.wordpress.com/2012/08/27/o-funil-da-inovacao-transformando-ideias-em-realidade-parte-1/
+31. http://www.c4lpt.co.uk/blog/2016/05/02/workplace-learning-the-individuals-perspective/
+32. http://elearningindustry.com/5-ways-effectively-assess-elearning-course-audience
+33. http://www.c4lpt.co.uk/blog/2016/04/25/the-difference-between-social-learning-and-social-collaboration/
+34. 
 
 -------------------
 
