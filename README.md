@@ -45,7 +45,7 @@
 
 -------------------
 
-## Read 100 articles (34/100)
+## Read 100 articles (35/100)
 1. https://www.linkedin.com/pulse/gamification-na-educa%C3%A7%C3%A3o-wagner-cassimiro?trk=hp-feed-article-title-like
 2. https://medium.com/@carvalho.icaro/o-que-diabos-aconteceu-com-geração-y-73cd16ccc5c9#.l49bh3s6s
 3. https://www.linkedin.com/pulse/como-anda-seu-marketing-pessoal-sofia-esteves
@@ -80,7 +80,8 @@
 32. http://elearningindustry.com/5-ways-effectively-assess-elearning-course-audience
 33. http://www.c4lpt.co.uk/blog/2016/04/25/the-difference-between-social-learning-and-social-collaboration/
 34. https://marlagottschalk.wordpress.com/2016/05/03/4-signs-that-youve-already-left-your-job/
-35. 
+35. https://www.linkedin.com/pulse/ansiedade-corporativa-inimiga-de-todas-horas-adriano-silva?trk=eml-b2_content_ecosystem_digest-recommended_articles-69-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=2GCtoz_KfEVnc1
+36. 
 
 -------------------
 
