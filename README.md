@@ -27,7 +27,7 @@
 13. Star Wars - The Force Unleashed 2 - finished
 14. The Legend of Zelda Spirit Tracks *playing
 15. Mighty Switch Force  *playing
-16. The Legend of Zelda Twilight Princess *playing
+16. My Nintendo Picross The Legend of Zelda Twilight Princess *playing
 
 -------------------
 
