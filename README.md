@@ -3,12 +3,8 @@
 ## Update my CV and create my portfolio
 
 ## Read 12 books (2/12)
-1. January - Inferno by Dan Brown
-2. February - The Shack by William P. Young
-3. March - The Casual Vacancy by J.K. Rowling
-4. April - The Hitchhiker's Guide to the Galaxy by Douglas Adams 
-5. May - A Storm of Swords by George RR Martin | The Last Wish by Andrzej Sapkowski | The Casual Vacancy by J.K. Rowling | The Hitchhiker's Guide to the Galaxy by Douglas Adams 
-6. June - 
+1. Inferno by Dan Brown
+2. The Shack by William P. Young
 
 -------------------
 
@@ -30,7 +26,7 @@
 12. Super Paper Mario - finished
 13. Star Wars - The Force Unleashed 2 - finished
 14. The Legend of Zelda Spirit Tracks *playing
-15. Sonic Unleashed *playing
+15. Mighty Switch Force  *playing
 16. The Legend of Zelda Twilight Princess *playing
 
 -------------------
@@ -45,7 +41,7 @@
 
 -------------------
 
-## Read 100 articles (36/100)
+## Read 100 articles (37/100)
 1. https://www.linkedin.com/pulse/gamification-na-educa%C3%A7%C3%A3o-wagner-cassimiro?trk=hp-feed-article-title-like
 2. https://medium.com/@carvalho.icaro/o-que-diabos-aconteceu-com-geração-y-73cd16ccc5c9#.l49bh3s6s
 3. https://www.linkedin.com/pulse/como-anda-seu-marketing-pessoal-sofia-esteves
@@ -82,6 +78,8 @@
 34. https://marlagottschalk.wordpress.com/2016/05/03/4-signs-that-youve-already-left-your-job/
 35. https://www.linkedin.com/pulse/ansiedade-corporativa-inimiga-de-todas-horas-adriano-silva?trk=eml-b2_content_ecosystem_digest-recommended_articles-69-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=2GCtoz_KfEVnc1
 36. https://www.linkedin.com/pulse/8-notas-mentais-para-automotiva%C3%A7%C3%A3o-matheus-de-souza
+37. https://www.linkedin.com/pulse/psic%C3%B3loga-de-harvard-diz-que-pessoas-julgam-voc%C3%AA-em-por-fernandes?trk=eml-b2_content_ecosystem_digest-recommended_articles-45-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=0LoHBf-MlY3ng1
+38. https://www.linkedin.com/pulse/10-coisas-que-ningu%C3%A9m-lhe-disse-sobre-ser-criativo-matheus-de-souza?trk=eml-b2_content_ecosystem_digest-recommended_articles-51-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=3JOSv2hUFY3ng1
 
 -------------------
 
