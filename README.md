@@ -41,7 +41,7 @@
 
 -------------------
 
-## Read 100 articles (37/100)
+## Read 100 articles (38/100)
 1. https://www.linkedin.com/pulse/gamification-na-educa%C3%A7%C3%A3o-wagner-cassimiro?trk=hp-feed-article-title-like
 2. https://medium.com/@carvalho.icaro/o-que-diabos-aconteceu-com-geração-y-73cd16ccc5c9#.l49bh3s6s
 3. https://www.linkedin.com/pulse/como-anda-seu-marketing-pessoal-sofia-esteves
@@ -80,6 +80,7 @@
 36. https://www.linkedin.com/pulse/8-notas-mentais-para-automotiva%C3%A7%C3%A3o-matheus-de-souza
 37. https://www.linkedin.com/pulse/psic%C3%B3loga-de-harvard-diz-que-pessoas-julgam-voc%C3%AA-em-por-fernandes?trk=eml-b2_content_ecosystem_digest-recommended_articles-45-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=0LoHBf-MlY3ng1
 38. https://www.linkedin.com/pulse/10-coisas-que-ningu%C3%A9m-lhe-disse-sobre-ser-criativo-matheus-de-souza?trk=eml-b2_content_ecosystem_digest-recommended_articles-51-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=3JOSv2hUFY3ng1
+39. https://www.linkedin.com/pulse/o-pre%C3%A7o-psicol%C3%B3gico-do-empreendedorismo-andr%C3%A9-bartholomeu-fernandes
 
 -------------------
 
