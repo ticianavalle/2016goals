@@ -41,7 +41,7 @@
 
 -------------------
 
-## Read 100 articles (38/100)
+## Read 100 articles (39/100)
 1. https://www.linkedin.com/pulse/gamification-na-educa%C3%A7%C3%A3o-wagner-cassimiro?trk=hp-feed-article-title-like
 2. https://medium.com/@carvalho.icaro/o-que-diabos-aconteceu-com-geração-y-73cd16ccc5c9#.l49bh3s6s
 3. https://www.linkedin.com/pulse/como-anda-seu-marketing-pessoal-sofia-esteves
