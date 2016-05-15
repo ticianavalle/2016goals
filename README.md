@@ -81,6 +81,9 @@
 37. https://www.linkedin.com/pulse/psic%C3%B3loga-de-harvard-diz-que-pessoas-julgam-voc%C3%AA-em-por-fernandes?trk=eml-b2_content_ecosystem_digest-recommended_articles-45-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=0LoHBf-MlY3ng1
 38. https://www.linkedin.com/pulse/10-coisas-que-ningu%C3%A9m-lhe-disse-sobre-ser-criativo-matheus-de-souza?trk=eml-b2_content_ecosystem_digest-recommended_articles-51-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=3JOSv2hUFY3ng1
 39. https://www.linkedin.com/pulse/o-pre%C3%A7o-psicol%C3%B3gico-do-empreendedorismo-andr%C3%A9-bartholomeu-fernandes
+40. http://www.linkedin.com/pulse/artigo-revela-que-um-chefe-ruim-pode-adoecer-os-ana-colombia?trk=v-feed
+
+
 
 -------------------
 
