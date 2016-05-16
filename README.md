@@ -8,7 +8,7 @@
 
 -------------------
 
-## Finish at least 16 games from my library (7/16)
+## Finish at least 16 games from my library (8/16)
 ### Xbox360/XOne
 1. Rise of the Tomb Raider - finished
 2. Life is Strange - finished
@@ -21,7 +21,7 @@
 9. Ori and the blind forest definitive edition *
 
 ### Wii/WiiU/3DS/DS Lite
-10. Watch Dogs *playing
+10. Watch Dogs - finished
 11. The Beatles Rock Band - finished
 12. Super Paper Mario - finished
 13. Star Wars - The Force Unleashed 2 - finished
