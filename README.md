@@ -17,7 +17,7 @@
 5. The Witcher 3 - The Wild Hunt *
 6. Ryse son of rome *
 7. The Walking Dead Season 1 *
-8. The Wolf among us *
+8. The Wolf among us *playing
 9. Ori and the blind forest definitive edition *
 
 ### Wii/WiiU/3DS/DS Lite
