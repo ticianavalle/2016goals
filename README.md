@@ -15,7 +15,7 @@
 3. Limbo - finished
 4. The Witcher 2 - Assassins of Kings - finished
 5. The Witcher 3 - The Wild Hunt *
-6. Ryse son of rome *
+6. Ryse son of rome *playing
 7. The Walking Dead Season 1 *
 8. The Wolf among us *playing
 9. Ori and the blind forest definitive edition *
@@ -41,7 +41,7 @@
 
 -------------------
 
-## Read 100 articles (39/100)
+## Read 100 articles (41/100)
 1. https://www.linkedin.com/pulse/gamification-na-educa%C3%A7%C3%A3o-wagner-cassimiro?trk=hp-feed-article-title-like
 2. https://medium.com/@carvalho.icaro/o-que-diabos-aconteceu-com-geração-y-73cd16ccc5c9#.l49bh3s6s
 3. https://www.linkedin.com/pulse/como-anda-seu-marketing-pessoal-sofia-esteves
@@ -82,6 +82,7 @@
 38. https://www.linkedin.com/pulse/10-coisas-que-ningu%C3%A9m-lhe-disse-sobre-ser-criativo-matheus-de-souza?trk=eml-b2_content_ecosystem_digest-recommended_articles-51-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=3JOSv2hUFY3ng1
 39. https://www.linkedin.com/pulse/o-pre%C3%A7o-psicol%C3%B3gico-do-empreendedorismo-andr%C3%A9-bartholomeu-fernandes
 40. http://www.linkedin.com/pulse/artigo-revela-que-um-chefe-ruim-pode-adoecer-os-ana-colombia?trk=v-feed
+41. https://www.linkedin.com/pulse/10-perguntas-para-lhe-ajudar-encontrar-seu-rumo-na-vida-ana-colombia?trk=eml-b2_content_ecosystem_digest-recommended_articles-45-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=2PlTjilPIodng1
 
 
 
