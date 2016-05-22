@@ -8,7 +8,7 @@
 
 -------------------
 
-## Finish at least 16 games from my library (9/16)
+## Finish at least 16 games from my library 09/16)
 ### Xbox360/XOne
 1. Rise of the Tomb Raider - finished
 2. Life is Strange - finished
@@ -17,7 +17,7 @@
 5. The Witcher 3 - The Wild Hunt *
 6. Ryse son of rome - finished
 7. The Walking Dead Season 1 *
-8. The Wolf among us *
+8. The Wolf among us *playing
 9. Ori and the blind forest definitive edition *
 
 ### Wii/WiiU/3DS/DS Lite
