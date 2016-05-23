@@ -8,7 +8,7 @@
 
 -------------------
 
-## Finish at least 16 games from my library 09/16)
+## Finish at least 16 games from my library (09/16)
 ### Xbox360/XOne
 1. Rise of the Tomb Raider - finished
 2. Life is Strange - finished
@@ -85,6 +85,7 @@
 41. https://www.linkedin.com/pulse/10-perguntas-para-lhe-ajudar-encontrar-seu-rumo-na-vida-ana-colombia?trk=eml-b2_content_ecosystem_digest-recommended_articles-45-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=2PlTjilPIodng1
 42. https://www.linkedin.com/pulse/anunciei-uma-vaga-linkedin-e-olha-s%C3%B3-o-que-eu-recebi-marc-tawil
 43. https://www.freelancelift.com/what-you-should-really-do-when-your-lose-your-mojo-as-a-freelancer/
+44. http://www.c4lpt.co.uk/blog/2016/04/25/the-difference-between-social-learning-and-social-collaboration/
 
 
 
