@@ -41,7 +41,7 @@
 
 -------------------
 
-## Read 100 articles (42/100)
+## Read 100 articles (45/100)
 1. https://www.linkedin.com/pulse/gamification-na-educa%C3%A7%C3%A3o-wagner-cassimiro?trk=hp-feed-article-title-like
 2. https://medium.com/@carvalho.icaro/o-que-diabos-aconteceu-com-geração-y-73cd16ccc5c9#.l49bh3s6s
 3. https://www.linkedin.com/pulse/como-anda-seu-marketing-pessoal-sofia-esteves
@@ -86,6 +86,7 @@
 42. https://www.linkedin.com/pulse/anunciei-uma-vaga-linkedin-e-olha-s%C3%B3-o-que-eu-recebi-marc-tawil
 43. https://www.freelancelift.com/what-you-should-really-do-when-your-lose-your-mojo-as-a-freelancer/
 44. http://www.c4lpt.co.uk/blog/2016/04/25/the-difference-between-social-learning-and-social-collaboration/
+45. https://www.linkedin.com/pulse/7-motivos-para-voc%C3%AA-acordar-%C3%A0s-5-da-manh%C3%A3-ricardo-nespoli-de-castro?trk=eml-b2_content_ecosystem_digest-recommended_articles-45-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=1A0Ti-ztxTn7g1
 
 
 
