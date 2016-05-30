@@ -2,9 +2,11 @@
 
 ## Update my CV and create my portfolio
 
-## Read 12 books (2/12)
+## Read 12 books (4/12)
 1. Inferno by Dan Brown
 2. The Shack by William P. Young
+3. The Last Wish by Andrzej Sapkowski
+4. Sword of Destiny by Andrzej Sapkowski
 
 -------------------
 
