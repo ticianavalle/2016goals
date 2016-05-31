@@ -7,6 +7,7 @@
 2. The Shack by William P. Young
 3. The Last Wish by Andrzej Sapkowski
 4. Sword of Destiny by Andrzej Sapkowski
+5. Blood of Elves by Andrzej Sapkowski
 
 -------------------
 
