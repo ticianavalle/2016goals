@@ -92,8 +92,8 @@
 45. https://www.linkedin.com/pulse/7-motivos-para-voc%C3%AA-acordar-%C3%A0s-5-da-manh%C3%A3-ricardo-nespoli-de-castro?trk=eml-b2_content_ecosystem_digest-recommended_articles-45-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=1A0Ti-ztxTn7g1
 46. http://www.brasilpost.com.br/2016/05/03/escolha-do-outro-incomoda_n_9809260.html
 47. https://www.linkedin.com/pulse/uber-airbnb-never-should-have-happened-way-did-gary-vaynerchuk?trk=mp-reader-card
-
-
+48. https://www.linkedin.com/pulse/6-dicas-para-voc%C3%AA-manter-o-foco-e-evitar-distra%C3%A7%C3%B5es-matheus-de-souza?trk=eml-b2_content_ecosystem_digest-recommended_articles-45-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=2soJHl5a1OwTg1
+49. https://www.linkedin.com/pulse/como-detectar-mentiras-e-um-mentiroso-trabalho-ana-colombia?trk=eml-b2_content_ecosystem_digest-recommended_articles-51-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=01w_eWSBJOwTg1
 
 -------------------
 
