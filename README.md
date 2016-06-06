@@ -19,9 +19,9 @@
 4. The Witcher 2 - Assassins of Kings - finished
 5. The Witcher 3 - The Wild Hunt *
 6. Ryse son of rome - finished
-7. The Walking Dead Season 1 *
-8. The Wolf among us
-9. Ori and the blind forest definitive edition *playing
+7. The Wolf among us - finished
+8. Ori and the blind forest definitive edition *playing
+9. Pneuma: Breath of Life
 
 ### Wii/WiiU/3DS/DS Lite
 10. Watch Dogs - finished
@@ -44,7 +44,7 @@
 
 -------------------
 
-## Read 100 articles (49/100)
+## Read 100 articles (50/100)
 1. https://www.linkedin.com/pulse/gamification-na-educa%C3%A7%C3%A3o-wagner-cassimiro?trk=hp-feed-article-title-like
 2. https://medium.com/@carvalho.icaro/o-que-diabos-aconteceu-com-geração-y-73cd16ccc5c9#.l49bh3s6s
 3. https://www.linkedin.com/pulse/como-anda-seu-marketing-pessoal-sofia-esteves
@@ -94,6 +94,7 @@
 47. https://www.linkedin.com/pulse/uber-airbnb-never-should-have-happened-way-did-gary-vaynerchuk?trk=mp-reader-card
 48. https://www.linkedin.com/pulse/6-dicas-para-voc%C3%AA-manter-o-foco-e-evitar-distra%C3%A7%C3%B5es-matheus-de-souza?trk=eml-b2_content_ecosystem_digest-recommended_articles-45-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=2soJHl5a1OwTg1
 49. https://www.linkedin.com/pulse/como-detectar-mentiras-e-um-mentiroso-trabalho-ana-colombia?trk=eml-b2_content_ecosystem_digest-recommended_articles-51-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=01w_eWSBJOwTg1
+50. https://medium.com/@JMTrevisan/o-nerd-padr%C3%A3o-%C3%A9-imbecil-e-preconceituoso-498beee30ca7#.pdmwo68g8
 
 -------------------
 
