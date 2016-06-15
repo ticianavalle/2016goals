@@ -44,7 +44,7 @@
 
 -------------------
 
-## Read 100 articles (50/100)
+## Read 100 articles (52/100)
 1. https://www.linkedin.com/pulse/gamification-na-educa%C3%A7%C3%A3o-wagner-cassimiro?trk=hp-feed-article-title-like
 2. https://medium.com/@carvalho.icaro/o-que-diabos-aconteceu-com-geração-y-73cd16ccc5c9#.l49bh3s6s
 3. https://www.linkedin.com/pulse/como-anda-seu-marketing-pessoal-sofia-esteves
@@ -95,6 +95,9 @@
 48. https://www.linkedin.com/pulse/6-dicas-para-voc%C3%AA-manter-o-foco-e-evitar-distra%C3%A7%C3%B5es-matheus-de-souza?trk=eml-b2_content_ecosystem_digest-recommended_articles-45-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=2soJHl5a1OwTg1
 49. https://www.linkedin.com/pulse/como-detectar-mentiras-e-um-mentiroso-trabalho-ana-colombia?trk=eml-b2_content_ecosystem_digest-recommended_articles-51-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=01w_eWSBJOwTg1
 50. https://medium.com/@JMTrevisan/o-nerd-padr%C3%A3o-%C3%A9-imbecil-e-preconceituoso-498beee30ca7#.pdmwo68g8
+51. https://www.linkedin.com/pulse/na-subida-do-everest-existem-centenas-de-corpos-eden-wiedemann?trk=eml-b2_content_ecosystem_digest-recommended_articles-63-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=2ohzqQcUpjQDg1
+52. https://www.linkedin.com/pulse/aten%C3%A7%C3%A3o-6-truques-para-recuperar-o-foco-danilo-barba?published=u
+53. 
 
 -------------------
 
