@@ -16,16 +16,16 @@
 
 -------------------
 
-## Finish at least 16 games from my library (10/16)
+## Finish at least 16 games from my library (11/16)
 ### Xbox360/XOne
 1. Rise of the Tomb Raider - finished
 2. Life is Strange - finished
 3. Limbo - finished
 4. The Witcher 2 - Assassins of Kings - finished
-5. The Witcher 3 - The Wild Hunt *
+5. The Witcher 3 - The Wild Hunt *playing
 6. Ryse son of rome - finished
 7. The Wolf among us - finished
-8. Ori and the blind forest definitive edition *playing
+8. Ori and the blind forest definitive edition - finished
 9. Pneuma: Breath of Life
 
 ### Wii/WiiU/3DS/DS Lite
