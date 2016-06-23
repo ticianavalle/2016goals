@@ -8,7 +8,7 @@
 3. The Last Wish by Andrzej Sapkowski
 4. Sword of Destiny by Andrzej Sapkowski
 5. Blood of Elves by Andrzej Sapkowski
-6. Time of Contempt by Andrzej Sapkowski
+6. Time of Contempt by Andrzej Sapkowski *reading
 7. Baptism of Fire by Andrzej Sapkowski
 8. The Swallow's Tower by Andrzej Sapkowski
 9. Lady of the Lake by Andrzej Sapkowski
