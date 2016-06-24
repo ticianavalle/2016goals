@@ -103,6 +103,7 @@
 51. https://www.linkedin.com/pulse/na-subida-do-everest-existem-centenas-de-corpos-eden-wiedemann?trk=eml-b2_content_ecosystem_digest-recommended_articles-63-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=2ohzqQcUpjQDg1
 52. https://www.linkedin.com/pulse/aten%C3%A7%C3%A3o-6-truques-para-recuperar-o-foco-danilo-barba?published=u
 53. https://www.linkedin.com/pulse/ao-receber-essa-mensagem-homof%C3%B3bica-sobre-o-filme-da-dory-marc-tawil?trk=eml-b2_content_ecosystem_digest-recommended_articles-57-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=0ZcdW6Fc7L-ng1
+54. https://www.linkedin.com/pulse/sou-terr%C3%ADvel-mas-com-sua-ajuda-posso-ser-genial-marco-trivelli
 
 -------------------
 
