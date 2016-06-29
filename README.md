@@ -105,6 +105,8 @@
 53. https://www.linkedin.com/pulse/ao-receber-essa-mensagem-homof%C3%B3bica-sobre-o-filme-da-dory-marc-tawil?trk=eml-b2_content_ecosystem_digest-recommended_articles-57-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=0ZcdW6Fc7L-ng1
 54. https://www.linkedin.com/pulse/sou-terr%C3%ADvel-mas-com-sua-ajuda-posso-ser-genial-marco-trivelli
 55. https://www.linkedin.com/pulse/eu-quero-%C3%A9-ser-de-verdade-ana-maria-braga?trk=eml-b2_content_ecosystem_digest-recommended_articles-45-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=0t3vVAMJXz87k1
+56. https://www.linkedin.com/pulse/ci%C3%AAncia-por-tr%C3%A1s-da-jornada-de-trabalho-6-horas-di%C3%A1rias-ana-colombia
+57. http://br.blog.trello.com/treine-seu-cerebro-para-ser-mais-produtivo/
 
 -------------------
 
