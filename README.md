@@ -49,7 +49,7 @@
 
 -------------------
 
-## Read 100 articles (53/100)
+## Read 100 articles (55/100)
 1. https://www.linkedin.com/pulse/gamification-na-educa%C3%A7%C3%A3o-wagner-cassimiro?trk=hp-feed-article-title-like
 2. https://medium.com/@carvalho.icaro/o-que-diabos-aconteceu-com-geração-y-73cd16ccc5c9#.l49bh3s6s
 3. https://www.linkedin.com/pulse/como-anda-seu-marketing-pessoal-sofia-esteves
@@ -104,6 +104,7 @@
 52. https://www.linkedin.com/pulse/aten%C3%A7%C3%A3o-6-truques-para-recuperar-o-foco-danilo-barba?published=u
 53. https://www.linkedin.com/pulse/ao-receber-essa-mensagem-homof%C3%B3bica-sobre-o-filme-da-dory-marc-tawil?trk=eml-b2_content_ecosystem_digest-recommended_articles-57-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=0ZcdW6Fc7L-ng1
 54. https://www.linkedin.com/pulse/sou-terr%C3%ADvel-mas-com-sua-ajuda-posso-ser-genial-marco-trivelli
+55. https://www.linkedin.com/pulse/eu-quero-%C3%A9-ser-de-verdade-ana-maria-braga?trk=eml-b2_content_ecosystem_digest-recommended_articles-45-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=0t3vVAMJXz87k1
 
 -------------------
 
