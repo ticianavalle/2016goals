@@ -16,7 +16,7 @@
 
 -------------------
 
-## Finish at least 16 games from my library (11/16)
+## Finish at least 16 games from my library (12/17)
 ### Xbox360/XOne
 1. Rise of the Tomb Raider - finished
 2. Life is Strange - finished
@@ -26,16 +26,16 @@
 6. Ryse son of rome - finished
 7. The Wolf among us - finished
 8. Ori and the blind forest definitive edition - finished
-9. Pneuma: Breath of Life
+9. Inside - finished
+10. Unravel *playing
 
 ### Wii/WiiU/3DS/DS Lite
-10. Watch Dogs - finished
-11. The Beatles Rock Band - finished
-12. Super Paper Mario - finished
-13. Star Wars - The Force Unleashed 2 - finished
-14. The Legend of Zelda Spirit Tracks *playing
-15. Mighty Switch Force  *playing
-16. My Nintendo Picross The Legend of Zelda Twilight Princess *playing
+11. Watch Dogs - finished
+12. The Beatles Rock Band - finished
+13. Super Paper Mario - finished
+14. Star Wars - The Force Unleashed 2 - finished
+15. The Legend of Zelda Spirit Tracks *playing
+16. Mighty Switch Force  *playing
 
 -------------------
 
@@ -49,7 +49,7 @@
 
 -------------------
 
-## Read 100 articles (55/100)
+## Read 100 articles (58/100)
 1. https://www.linkedin.com/pulse/gamification-na-educa%C3%A7%C3%A3o-wagner-cassimiro?trk=hp-feed-article-title-like
 2. https://medium.com/@carvalho.icaro/o-que-diabos-aconteceu-com-geração-y-73cd16ccc5c9#.l49bh3s6s
 3. https://www.linkedin.com/pulse/como-anda-seu-marketing-pessoal-sofia-esteves
@@ -107,6 +107,7 @@
 55. https://www.linkedin.com/pulse/eu-quero-%C3%A9-ser-de-verdade-ana-maria-braga?trk=eml-b2_content_ecosystem_digest-recommended_articles-45-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=0t3vVAMJXz87k1
 56. https://www.linkedin.com/pulse/ci%C3%AAncia-por-tr%C3%A1s-da-jornada-de-trabalho-6-horas-di%C3%A1rias-ana-colombia
 57. http://br.blog.trello.com/treine-seu-cerebro-para-ser-mais-produtivo/
+58. https://www.linkedin.com/pulse/14-erros-de-linguagem-corporal-que-fazem-pessoas-voc%C3%AA-danilo-barba?trk=eml-b2_content_ecosystem_digest-recommended_articles-45-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=1wjk9dHmNui7k1
 
 -------------------
 
