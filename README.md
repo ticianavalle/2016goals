@@ -108,6 +108,7 @@
 56. https://www.linkedin.com/pulse/ci%C3%AAncia-por-tr%C3%A1s-da-jornada-de-trabalho-6-horas-di%C3%A1rias-ana-colombia
 57. http://br.blog.trello.com/treine-seu-cerebro-para-ser-mais-produtivo/
 58. https://www.linkedin.com/pulse/14-erros-de-linguagem-corporal-que-fazem-pessoas-voc%C3%AA-danilo-barba?trk=eml-b2_content_ecosystem_digest-recommended_articles-45-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=1wjk9dHmNui7k1
+59. https://www.linkedin.com/pulse/6-compet%C3%AAncias-de-quem-%C3%A9-promovido-em-plena-crise-decision-fgv?trk=eml-b2_content_ecosystem_digest-recommended_articles-63-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=1UDgCSzhVui7k1
 
 -------------------
 
