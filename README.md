@@ -2,17 +2,19 @@
 
 ## Update my CV and create my portfolio
 
-## Read 12 books (5/12)
+## Read 12 books (6/12)
 1. Inferno by Dan Brown
 2. The Shack by William P. Young
 3. The Last Wish by Andrzej Sapkowski
 4. Sword of Destiny by Andrzej Sapkowski
 5. Blood of Elves by Andrzej Sapkowski
-6. Time of Contempt by Andrzej Sapkowski *reading
-7. Baptism of Fire by Andrzej Sapkowski
+6. Time of Contempt by Andrzej Sapkowski 
+7. Baptism of Fire by Andrzej Sapkowski *reading
 8. The Swallow's Tower by Andrzej Sapkowski
 9. Lady of the Lake by Andrzej Sapkowski
 10. Season of Storms by Andrzej Sapkowski
+11. Hitchhikers guide to the Galaxy by Douglas Adams
+12. Casual Vacancy by JK Rowling
 
 -------------------
 
@@ -49,7 +51,7 @@
 
 -------------------
 
-## Read 100 articles (58/100)
+## Read 100 articles (61/100)
 1. https://www.linkedin.com/pulse/gamification-na-educa%C3%A7%C3%A3o-wagner-cassimiro?trk=hp-feed-article-title-like
 2. https://medium.com/@carvalho.icaro/o-que-diabos-aconteceu-com-geração-y-73cd16ccc5c9#.l49bh3s6s
 3. https://www.linkedin.com/pulse/como-anda-seu-marketing-pessoal-sofia-esteves
@@ -109,6 +111,8 @@
 57. http://br.blog.trello.com/treine-seu-cerebro-para-ser-mais-produtivo/
 58. https://www.linkedin.com/pulse/14-erros-de-linguagem-corporal-que-fazem-pessoas-voc%C3%AA-danilo-barba?trk=eml-b2_content_ecosystem_digest-recommended_articles-45-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=1wjk9dHmNui7k1
 59. https://www.linkedin.com/pulse/6-compet%C3%AAncias-de-quem-%C3%A9-promovido-em-plena-crise-decision-fgv?trk=eml-b2_content_ecosystem_digest-recommended_articles-63-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=1UDgCSzhVui7k1
+60. https://www.linkedin.com/pulse/cultura-da-pressa-como-deixar-de-ser-escravo-do-tempo-aline?trk=eml-b2_content_ecosystem_digest-recommended_articles-45-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=2zl7D2aD9HtDk1
+61. https://www.linkedin.com/pulse/por-que-os-colaboradores-mais-talentosos-abandonam-dos-reis-vilela?trk=eml-b2_content_ecosystem_digest-recommended_articles-63-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=1KY3ERnh5ItDk1
 
 -------------------
 
