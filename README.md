@@ -113,6 +113,9 @@
 59. https://www.linkedin.com/pulse/6-compet%C3%AAncias-de-quem-%C3%A9-promovido-em-plena-crise-decision-fgv?trk=eml-b2_content_ecosystem_digest-recommended_articles-63-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=1UDgCSzhVui7k1
 60. https://www.linkedin.com/pulse/cultura-da-pressa-como-deixar-de-ser-escravo-do-tempo-aline?trk=eml-b2_content_ecosystem_digest-recommended_articles-45-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=2zl7D2aD9HtDk1
 61. https://www.linkedin.com/pulse/por-que-os-colaboradores-mais-talentosos-abandonam-dos-reis-vilela?trk=eml-b2_content_ecosystem_digest-recommended_articles-63-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=1KY3ERnh5ItDk1
+62. https://www.linkedin.com/pulse/5-frases-t%C3%ADpicas-de-um-chefe-fraco-e-inseguro-fl%C3%A1vio-augusto-da-silva?trk=eml-b2_content_ecosystem_digest-recommended_articles-45-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=0LmN7jM7MlBTk1
+63. https://www.linkedin.com/pulse/voc%C3%AA-n%C3%A3o-sabe-mas-seu-dia-j%C3%A1-tem-32-horas-david-laloum?trk=eml-b2_content_ecosystem_digest-recommended_articles-51-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=3Jbulm4-B3BTk1
+64. https://www.linkedin.com/pulse/pare-de-pensar-e-comece-fazer-matheus-de-souza?trk=eml-b2_content_ecosystem_digest-recommended_articles-69-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=2dD3Z41qt3BTk1
 
 -------------------
 
