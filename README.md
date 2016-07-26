@@ -51,7 +51,7 @@
 
 -------------------
 
-## Read 100 articles (65/100)
+## Read 100 articles (66/100)
 1. https://www.linkedin.com/pulse/gamification-na-educa%C3%A7%C3%A3o-wagner-cassimiro?trk=hp-feed-article-title-like
 2. https://medium.com/@carvalho.icaro/o-que-diabos-aconteceu-com-geração-y-73cd16ccc5c9#.l49bh3s6s
 3. https://www.linkedin.com/pulse/como-anda-seu-marketing-pessoal-sofia-esteves
@@ -117,6 +117,7 @@
 63. https://www.linkedin.com/pulse/voc%C3%AA-n%C3%A3o-sabe-mas-seu-dia-j%C3%A1-tem-32-horas-david-laloum?trk=eml-b2_content_ecosystem_digest-recommended_articles-51-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=3Jbulm4-B3BTk1
 64. https://www.linkedin.com/pulse/pare-de-pensar-e-comece-fazer-matheus-de-souza?trk=eml-b2_content_ecosystem_digest-recommended_articles-69-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=2dD3Z41qt3BTk1
 65. http://www.polygon.com/2016/7/21/12241890/women-game-development
+66. http://www.polygon.com/features/2016/7/21/12239568/games-for-grandparents
 
 -------------------
 
