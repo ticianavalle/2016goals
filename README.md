@@ -118,6 +118,7 @@
 64. https://www.linkedin.com/pulse/pare-de-pensar-e-comece-fazer-matheus-de-souza?trk=eml-b2_content_ecosystem_digest-recommended_articles-69-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=2dD3Z41qt3BTk1
 65. http://www.polygon.com/2016/7/21/12241890/women-game-development
 66. http://www.polygon.com/features/2016/7/21/12239568/games-for-grandparents
+67. https://www.linkedin.com/pulse/para-trabalhar-com-o-que-gosta-seja-profissional-bel-pesce?trk=eml-b2_content_ecosystem_digest-recommended_articles-45-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=2bMwIPM9NWLDk1
 
 -------------------
 
