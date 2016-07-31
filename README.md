@@ -2,18 +2,18 @@
 
 ## Update my CV and create my portfolio
 
-## Read 12 books (6/12)
+## Read 12 books (7/12)
 1. Inferno by Dan Brown
 2. The Shack by William P. Young
 3. The Last Wish by Andrzej Sapkowski
 4. Sword of Destiny by Andrzej Sapkowski
 5. Blood of Elves by Andrzej Sapkowski
 6. Time of Contempt by Andrzej Sapkowski 
-7. Baptism of Fire by Andrzej Sapkowski *reading
-8. The Swallow's Tower by Andrzej Sapkowski
-9. Lady of the Lake by Andrzej Sapkowski
-10. Season of Storms by Andrzej Sapkowski
-11. Hitchhikers guide to the Galaxy by Douglas Adams
+7. Baptism of Fire by Andrzej Sapkowski
+8. The Swallow's Tower by Andrzej Sapkowski - To Read
+9. Lady of the Lake by Andrzej Sapkowski - To Read
+10. Season of Storms by Andrzej Sapkowski - To Read 
+11. Hitchhikers guide to the Galaxy by Douglas Adams *reading
 12. Casual Vacancy by JK Rowling
 
 -------------------
