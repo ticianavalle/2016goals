@@ -119,6 +119,7 @@
 65. http://www.polygon.com/2016/7/21/12241890/women-game-development
 66. http://www.polygon.com/features/2016/7/21/12239568/games-for-grandparents
 67. https://www.linkedin.com/pulse/para-trabalhar-com-o-que-gosta-seja-profissional-bel-pesce?trk=eml-b2_content_ecosystem_digest-recommended_articles-45-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=2bMwIPM9NWLDk1
+68. https://medium.com/personal-growth/youre-not-meant-to-do-what-you-love-you-re-meant-to-do-what-you-re-good-at-4e8e6b8e929d#.quvl3ewjp
 
 -------------------
 
