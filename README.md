@@ -52,7 +52,7 @@
 
 -------------------
 
-## Read 100 articles (69/100)
+## Read 100 articles (70/100)
 1. https://www.linkedin.com/pulse/gamification-na-educa%C3%A7%C3%A3o-wagner-cassimiro?trk=hp-feed-article-title-like
 2. https://medium.com/@carvalho.icaro/o-que-diabos-aconteceu-com-geração-y-73cd16ccc5c9#.l49bh3s6s
 3. https://www.linkedin.com/pulse/como-anda-seu-marketing-pessoal-sofia-esteves
@@ -122,6 +122,7 @@
 67. https://www.linkedin.com/pulse/para-trabalhar-com-o-que-gosta-seja-profissional-bel-pesce?trk=eml-b2_content_ecosystem_digest-recommended_articles-45-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=2bMwIPM9NWLDk1
 68. https://medium.com/personal-growth/youre-not-meant-to-do-what-you-love-you-re-meant-to-do-what-you-re-good-at-4e8e6b8e929d#.quvl3ewjp
 69. http://www.gamasutra.com/blogs/EmericThoa/20160729/278028/Furi_some_tough_design_decisions_striving_to_make_a_memorable_game.php?utm_source=dlvr.it&utm_medium=twitter
+70. http://www.polygon.com/2016/8/8/12406388/online-games-education-benefit
 
 -------------------
 
