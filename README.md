@@ -123,6 +123,8 @@
 68. https://medium.com/personal-growth/youre-not-meant-to-do-what-you-love-you-re-meant-to-do-what-you-re-good-at-4e8e6b8e929d#.quvl3ewjp
 69. http://www.gamasutra.com/blogs/EmericThoa/20160729/278028/Furi_some_tough_design_decisions_striving_to_make_a_memorable_game.php?utm_source=dlvr.it&utm_medium=twitter
 70. http://www.polygon.com/2016/8/8/12406388/online-games-education-benefit
+71. https://www.linkedin.com/pulse/6-frases-fatais-na-entrevista-de-emprego-sidnei-oliveira?trk=eml-b2_content_ecosystem_digest-recommended_articles-45-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=19b2kACMrF37o1
+72. https://www.linkedin.com/pulse/n%C3%A3o-crie-inimigos-silvio-celestino?trk=eml-b2_content_ecosystem_digest-recommended_articles-69-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=2Im7LtxOLF37o1
 
 -------------------
 
