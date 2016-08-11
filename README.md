@@ -2,7 +2,7 @@
 
 ## Update my CV and create my portfolio
 
-## Read 12 books (7/12)
+## Read 12 books (7/14)
 1. Inferno by Dan Brown
 2. The Shack by William P. Young
 3. The Last Wish by Andrzej Sapkowski
@@ -14,8 +14,9 @@
 9. Lady of the Lake by Andrzej Sapkowski - To Read
 10. Season of Storms by Andrzej Sapkowski - To Read 
 11. Hitchhikers guide to the Galaxy by Douglas Adams 
-12. Casual Vacancy by JK Rowling
+12. Casual Vacancy by JK Rowling *reading
 13. The Restaurant at the End of the Universe by Douglas Adams *reading
+14. Harry Potter and the Cursed Child by JK Rowling *reading
 
 -------------------
 
