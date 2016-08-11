@@ -125,6 +125,7 @@
 70. http://www.polygon.com/2016/8/8/12406388/online-games-education-benefit
 71. https://www.linkedin.com/pulse/6-frases-fatais-na-entrevista-de-emprego-sidnei-oliveira?trk=eml-b2_content_ecosystem_digest-recommended_articles-45-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=19b2kACMrF37o1
 72. https://www.linkedin.com/pulse/n%C3%A3o-crie-inimigos-silvio-celestino?trk=eml-b2_content_ecosystem_digest-recommended_articles-69-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=2Im7LtxOLF37o1
+73. https://omelete.uol.com.br/filmes/artigo/zootopia-e-a-nova-era-dos-estudios-disney/
 
 -------------------
 
