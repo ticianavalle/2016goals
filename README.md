@@ -128,6 +128,7 @@
 72. https://www.linkedin.com/pulse/n%C3%A3o-crie-inimigos-silvio-celestino?trk=eml-b2_content_ecosystem_digest-recommended_articles-69-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=2Im7LtxOLF37o1
 73. https://omelete.uol.com.br/filmes/artigo/zootopia-e-a-nova-era-dos-estudios-disney/
 74. https://www.linkedin.com/pulse/e-voc%C3%AA-atura-seu-chefe-ser-babaca-felipe-ribeiro?trk=eml-b2_content_ecosystem_digest-recommended_articles-63-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=3WVPp-Kg9Sd7o1
+75. http://www.polygon.com/2016/8/16/12503258/no-mans-sky-pitch-indie-success
 
 -------------------
 
