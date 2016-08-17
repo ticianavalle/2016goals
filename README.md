@@ -2,7 +2,7 @@
 
 ## Update my CV and create my portfolio
 
-## Read 12 books (7/14)
+## Read 12 books (8/14)
 1. Inferno by Dan Brown
 2. The Shack by William P. Young
 3. The Last Wish by Andrzej Sapkowski
@@ -16,7 +16,7 @@
 11. Hitchhikers guide to the Galaxy by Douglas Adams 
 12. Casual Vacancy by JK Rowling *reading
 13. The Restaurant at the End of the Universe by Douglas Adams *reading
-14. Harry Potter and the Cursed Child by JK Rowling *reading
+14. Harry Potter and the Cursed Child by JK Rowling
 
 -------------------
 
