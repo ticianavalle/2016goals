@@ -55,7 +55,7 @@
 
 -------------------
 
-## Read 100 articles (74/100)
+## Read 100 articles (79/100)
 1. https://www.linkedin.com/pulse/gamification-na-educa%C3%A7%C3%A3o-wagner-cassimiro?trk=hp-feed-article-title-like
 2. https://medium.com/@carvalho.icaro/o-que-diabos-aconteceu-com-geração-y-73cd16ccc5c9#.l49bh3s6s
 3. https://www.linkedin.com/pulse/como-anda-seu-marketing-pessoal-sofia-esteves
@@ -134,6 +134,7 @@
 76. http://www.pearsonlearningnews.com/how-pokemon-and-augmented-reality-can-change-the-future-of-learning/
 77. http://www.marketingegames.com.br/palavras-duras-conselhos-de-um-empreendedor-da-area-de-games/
 78. http://www.marketingegames.com.br/mitos-sobre-gamification-e-dicas-praticas-para-melhorar-o-seu-engajamento/
+79. http://especiais.g1.globo.com/tecnologia/2016/realidade-aumentada-e-virtual/
 
 -------------------
 
