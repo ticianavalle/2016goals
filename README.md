@@ -55,7 +55,7 @@
 
 -------------------
 
-## Read 100 articles (79/100)
+## Read 100 articles (81/100)
 1. https://www.linkedin.com/pulse/gamification-na-educa%C3%A7%C3%A3o-wagner-cassimiro?trk=hp-feed-article-title-like
 2. https://medium.com/@carvalho.icaro/o-que-diabos-aconteceu-com-geração-y-73cd16ccc5c9#.l49bh3s6s
 3. https://www.linkedin.com/pulse/como-anda-seu-marketing-pessoal-sofia-esteves
@@ -135,6 +135,9 @@
 77. http://www.marketingegames.com.br/palavras-duras-conselhos-de-um-empreendedor-da-area-de-games/
 78. http://www.marketingegames.com.br/mitos-sobre-gamification-e-dicas-praticas-para-melhorar-o-seu-engajamento/
 79. http://especiais.g1.globo.com/tecnologia/2016/realidade-aumentada-e-virtual/
+80. http://exame.abril.com.br/rede-de-blogs/sidnei-oliveira/2016/08/15/3-atitudes-infaliveis-de-quem-conseguiu-um-emprego/
+81. http://www.administradores.com.br/artigos/carreira/5-razoes-pelas-quais-os-melhores-colaboradores-se-demitem-mesmo-quando-gostam-do-seu-trabalho/97378/
+82. https://webcache.googleusercontent.com/search?q=cache:pn6kfVgljMgJ:https://www.linkedin.com/pulse/voc%25C3%25AA-sabe-como-lemos-o-seu-curr%25C3%25ADculo-rodrigo-n-ferraz+&cd=2&hl=en&ct=clnk&gl=br&client=firefox-b
 
 -------------------
 
