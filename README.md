@@ -28,7 +28,7 @@
 2. Life is Strange - finished
 3. Limbo - finished
 4. The Witcher 2 - Assassins of Kings - finished
-5. The Witcher 3 - The Wild Hunt *playing
+5. The Witcher 3 - The Wild Hunt - finished
 6. Ryse son of rome - finished
 7. The Wolf among us - finished
 8. Ori and the blind forest definitive edition - finished
@@ -55,7 +55,7 @@
 
 -------------------
 
-## Read 100 articles (81/100)
+## Read 100 articles (85/100)
 1. https://www.linkedin.com/pulse/gamification-na-educa%C3%A7%C3%A3o-wagner-cassimiro?trk=hp-feed-article-title-like
 2. https://medium.com/@carvalho.icaro/o-que-diabos-aconteceu-com-geração-y-73cd16ccc5c9#.l49bh3s6s
 3. https://www.linkedin.com/pulse/como-anda-seu-marketing-pessoal-sofia-esteves
@@ -138,6 +138,9 @@
 80. http://exame.abril.com.br/rede-de-blogs/sidnei-oliveira/2016/08/15/3-atitudes-infaliveis-de-quem-conseguiu-um-emprego/
 81. http://www.administradores.com.br/artigos/carreira/5-razoes-pelas-quais-os-melhores-colaboradores-se-demitem-mesmo-quando-gostam-do-seu-trabalho/97378/
 82. https://webcache.googleusercontent.com/search?q=cache:pn6kfVgljMgJ:https://www.linkedin.com/pulse/voc%25C3%25AA-sabe-como-lemos-o-seu-curr%25C3%25ADculo-rodrigo-n-ferraz+&cd=2&hl=en&ct=clnk&gl=br&client=firefox-b
+83. https://medium.com/brasil/7-coisas-que-voce-precisa-parar-de-fazer-para-ser-mais-produtivo-comprovado-pela-ciencia-57be226d7a21#.6vbdgpur0
+84. https://medium.com/brasil/como-ter-largado-meu-emprego-para-abrir-minha-tao-sonhada-startup-ferrou-com-a-minha-vida-4394130cfa49#.18p8t2hls
+85. https://www.linkedin.com/pulse/perdi-o-meu-emprego-e-n%C3%A3o-sei-que-fazer-armindo-ferreira?trk=hp-feed-article-title-channel-add
 
 -------------------
 
