@@ -22,7 +22,7 @@
 
 -------------------
 
-## Finish at least 16 games from my library (12/16)
+## Finish at least 16 games from my library (13/16)
 ### Xbox360/XOne
 1. Rise of the Tomb Raider - finished
 2. Life is Strange - finished
