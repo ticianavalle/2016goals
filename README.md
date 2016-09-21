@@ -2,7 +2,7 @@
 
 ## Update my CV and create my portfolio
 
-## Read 12 books (9/12)
+## Read 12 books (10/12)
 1. Inferno by Dan Brown
 2. The Shack by William P. Young
 3. The Last Wish by Andrzej Sapkowski
@@ -15,8 +15,8 @@
 10. Casual Vacancy by JK Rowling *reading
 11. The Restaurant at the End of the Universe by Douglas Adams *reading
 12. Game Start by Thais Weiller *reading
-13. Ready Player One by Ernest Cline *reading
-14. The Swallow's Tower by Andrzej Sapkowski - To Read
+13. Ready Player One by Ernest Cline 
+14. The Swallow's Tower by Andrzej Sapkowski *reading
 15. Lady of the Lake by Andrzej Sapkowski - To Read
 16. Season of Storms by Andrzej Sapkowski - To Read 
 
