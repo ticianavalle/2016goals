@@ -42,6 +42,7 @@
 14. Star Wars - The Force Unleashed 2 - finished
 15. The Legend of Zelda Spirit Tracks *playing
 16. Mighty Switch Force  *playing
+17. Lost in Shadow *playing
 
 -------------------
 
@@ -141,6 +142,7 @@
 83. https://medium.com/brasil/7-coisas-que-voce-precisa-parar-de-fazer-para-ser-mais-produtivo-comprovado-pela-ciencia-57be226d7a21#.6vbdgpur0
 84. https://medium.com/brasil/como-ter-largado-meu-emprego-para-abrir-minha-tao-sonhada-startup-ferrou-com-a-minha-vida-4394130cfa49#.18p8t2hls
 85. https://www.linkedin.com/pulse/perdi-o-meu-emprego-e-n%C3%A3o-sei-que-fazer-armindo-ferreira?trk=hp-feed-article-title-channel-add
+86. https://hbr.org/2016/09/identifying-leaders-who-could-bypass-the-typical-promotion-path
 
 -------------------
 
