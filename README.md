@@ -143,6 +143,7 @@
 84. https://medium.com/brasil/como-ter-largado-meu-emprego-para-abrir-minha-tao-sonhada-startup-ferrou-com-a-minha-vida-4394130cfa49#.18p8t2hls
 85. https://www.linkedin.com/pulse/perdi-o-meu-emprego-e-n%C3%A3o-sei-que-fazer-armindo-ferreira?trk=hp-feed-article-title-channel-add
 86. https://hbr.org/2016/09/identifying-leaders-who-could-bypass-the-typical-promotion-path
+87. https://www.linkedin.com/pulse/o-que-aconteceu-quando-decidi-vender-meu-carro-e-bruno-coutinho?trk=eml-b2_content_ecosystem_digest-recommended_articles-78-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=32qiDyhQpkk7s1
 
 -------------------
 
