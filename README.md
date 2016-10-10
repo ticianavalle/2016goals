@@ -56,7 +56,7 @@
 
 -------------------
 
-## Read 100 articles (85/100)
+## Read 100 articles (88/100)
 1. https://www.linkedin.com/pulse/gamification-na-educa%C3%A7%C3%A3o-wagner-cassimiro?trk=hp-feed-article-title-like
 2. https://medium.com/@carvalho.icaro/o-que-diabos-aconteceu-com-geração-y-73cd16ccc5c9#.l49bh3s6s
 3. https://www.linkedin.com/pulse/como-anda-seu-marketing-pessoal-sofia-esteves
@@ -144,7 +144,7 @@
 85. https://www.linkedin.com/pulse/perdi-o-meu-emprego-e-n%C3%A3o-sei-que-fazer-armindo-ferreira?trk=hp-feed-article-title-channel-add
 86. https://hbr.org/2016/09/identifying-leaders-who-could-bypass-the-typical-promotion-path
 87. https://www.linkedin.com/pulse/o-que-aconteceu-quando-decidi-vender-meu-carro-e-bruno-coutinho?trk=eml-b2_content_ecosystem_digest-recommended_articles-78-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=32qiDyhQpkk7s1
-
+88. https://www.linkedin.com/pulse/sua-pontualidade-diz-muito-sobre-voc%C3%AA-impontualidade-mais-marc-tawil
 -------------------
 
 ## Watch all Oscar 2016 nominees (8/8)
