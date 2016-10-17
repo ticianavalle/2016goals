@@ -145,6 +145,8 @@
 86. https://hbr.org/2016/09/identifying-leaders-who-could-bypass-the-typical-promotion-path
 87. https://www.linkedin.com/pulse/o-que-aconteceu-quando-decidi-vender-meu-carro-e-bruno-coutinho?trk=eml-b2_content_ecosystem_digest-recommended_articles-78-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=32qiDyhQpkk7s1
 88. https://www.linkedin.com/pulse/sua-pontualidade-diz-muito-sobre-voc%C3%AA-impontualidade-mais-marc-tawil
+89. https://www.interaction-design.org/literature/article/10-great-ideas-to-improve-your-productivity-when-you-work-from-home
+
 -------------------
 
 ## Watch all Oscar 2016 nominees (8/8)
