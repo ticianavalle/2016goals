@@ -5,29 +5,29 @@
 ## Create my portfolio
 
 ## Read 12 books (11/12)
-1. Inferno by Dan Brown
-2. The Shack by William P. Young
-3. The Last Wish by Andrzej Sapkowski
-4. Sword of Destiny by Andrzej Sapkowski
-5. Blood of Elves by Andrzej Sapkowski
-6. Time of Contempt by Andrzej Sapkowski 
-7. Baptism of Fire by Andrzej Sapkowski
-8. Hitchhikers guide to the Galaxy by Douglas Adams 
-9. Harry Potter and the Cursed Child by JK Rowling
+1. Inferno by Dan Brown - finished
+2. The Shack by William P. Young - finished
+3. The Last Wish by Andrzej Sapkowski - finished
+4. Sword of Destiny by Andrzej Sapkowski - finished
+5. Blood of Elves by Andrzej Sapkowski - finished
+6. Time of Contempt by Andrzej Sapkowski - finished
+7. Baptism of Fire by Andrzej Sapkowski - finished
+8. Hitchhikers guide to the Galaxy by Douglas Adams  - finished
+9. Harry Potter and the Cursed Child by JK Rowling - finished
 10. Casual Vacancy by JK Rowling *reading
 11. The Restaurant at the End of the Universe by Douglas Adams *reading
 12. Game Start by Thais Weiller *reading
 13. Ready Player One by Ernest Cline 
 14. The Swallow's Tower by Andrzej Sapkowski *reading
-15. Lady of the Lake by Andrzej Sapkowski - To Read
-16. Season of Storms by Andrzej Sapkowski - To Read 
-17. Cross Road by William P. Young
+15. Lady of the Lake by Andrzej Sapkowski
+16. Season of Storms by Andrzej Sapkowski 
+17. Cross Road by William P. Young - finished
 
 -------------------
 
 ## Finish at least 16 games from my library (13/12)
 ### Xbox360/XOne
-1. Rise of the Tomb Raider - finished
+1. Rise of the Tomb Raider  - finished
 2. Life is Strange - finished
 3. Limbo - finished
 4. The Witcher 2 - Assassins of Kings - finished
