@@ -1,6 +1,8 @@
 # Personal goals for 2016
 
-## Update my CV and create my portfolio
+## Update my CV - OK
+
+## Create my portfolio
 
 ## Read 12 books (11/12)
 1. Inferno by Dan Brown
@@ -149,6 +151,8 @@
 89. https://www.interaction-design.org/literature/article/10-great-ideas-to-improve-your-productivity-when-you-work-from-home
 90. http://www.revistawide.com.br/marketing/5-dicas-de-seo-para-seu-blog-em-wordpress
 91. http://www.meioemensagem.com.br/home/opiniao/2016/10/14/a-publicidade-sem-roi-acaba-de-morrer-adapte-se-ou-junte-se-a-ela.html
+92. https://elearningindustry.com/4-ways-short-video-corporate-learning
+93. 
 
 -------------------
 
