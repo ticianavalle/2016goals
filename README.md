@@ -59,7 +59,7 @@
 
 -------------------
 
-## Read 100 articles (89/100)
+## Read 100 articles (95/100)
 1. https://www.linkedin.com/pulse/gamification-na-educa%C3%A7%C3%A3o-wagner-cassimiro?trk=hp-feed-article-title-like
 2. https://medium.com/@carvalho.icaro/o-que-diabos-aconteceu-com-geração-y-73cd16ccc5c9#.l49bh3s6s
 3. https://www.linkedin.com/pulse/como-anda-seu-marketing-pessoal-sofia-esteves
@@ -152,7 +152,9 @@
 90. http://www.revistawide.com.br/marketing/5-dicas-de-seo-para-seu-blog-em-wordpress
 91. http://www.meioemensagem.com.br/home/opiniao/2016/10/14/a-publicidade-sem-roi-acaba-de-morrer-adapte-se-ou-junte-se-a-ela.html
 92. https://elearningindustry.com/4-ways-short-video-corporate-learning
-93. 
+93. https://www.linkedin.com/pulse/como-quebrar-paradigmas-e-provocar-mudan%C3%A7as-richard-branson?trk=eml-b2_content_ecosystem_digest-recommended_articles-89-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=350AcdH_MGADs1
+94. https://www.linkedin.com/pulse/3-ted-talks-que-voc%C3%AA-precisa-assistir-antes-o-dia-de-hoje-montenegro?trk=eml-b2_content_ecosystem_digest-recommended_articles-111-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=1z0SwnkHcGADs1
+95. https://www.linkedin.com/pulse/s%C3%ADndrome-da-superioridade-ilus%C3%B3ria-os-profissionais-de-luzzi?trk=eml-b2_content_ecosystem_digest-recommended_articles-100-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=0fakK2uHkGADs1
 
 -------------------
 
