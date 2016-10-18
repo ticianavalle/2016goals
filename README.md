@@ -2,7 +2,7 @@
 
 ## Update my CV and create my portfolio
 
-## Read 12 books (10/12)
+## Read 12 books (11/12)
 1. Inferno by Dan Brown
 2. The Shack by William P. Young
 3. The Last Wish by Andrzej Sapkowski
@@ -19,6 +19,7 @@
 14. The Swallow's Tower by Andrzej Sapkowski *reading
 15. Lady of the Lake by Andrzej Sapkowski - To Read
 16. Season of Storms by Andrzej Sapkowski - To Read 
+17. Cross Road by William P. Young
 
 -------------------
 
@@ -56,7 +57,7 @@
 
 -------------------
 
-## Read 100 articles (88/100)
+## Read 100 articles (89/100)
 1. https://www.linkedin.com/pulse/gamification-na-educa%C3%A7%C3%A3o-wagner-cassimiro?trk=hp-feed-article-title-like
 2. https://medium.com/@carvalho.icaro/o-que-diabos-aconteceu-com-geração-y-73cd16ccc5c9#.l49bh3s6s
 3. https://www.linkedin.com/pulse/como-anda-seu-marketing-pessoal-sofia-esteves
