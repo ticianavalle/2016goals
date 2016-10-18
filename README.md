@@ -148,7 +148,7 @@
 88. https://www.linkedin.com/pulse/sua-pontualidade-diz-muito-sobre-voc%C3%AA-impontualidade-mais-marc-tawil
 89. https://www.interaction-design.org/literature/article/10-great-ideas-to-improve-your-productivity-when-you-work-from-home
 90. http://www.revistawide.com.br/marketing/5-dicas-de-seo-para-seu-blog-em-wordpress
-
+91. http://www.meioemensagem.com.br/home/opiniao/2016/10/14/a-publicidade-sem-roi-acaba-de-morrer-adapte-se-ou-junte-se-a-ela.html
 
 -------------------
 
