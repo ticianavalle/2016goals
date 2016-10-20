@@ -155,6 +155,7 @@
 93. https://www.linkedin.com/pulse/como-quebrar-paradigmas-e-provocar-mudan%C3%A7as-richard-branson?trk=eml-b2_content_ecosystem_digest-recommended_articles-89-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=350AcdH_MGADs1
 94. https://www.linkedin.com/pulse/3-ted-talks-que-voc%C3%AA-precisa-assistir-antes-o-dia-de-hoje-montenegro?trk=eml-b2_content_ecosystem_digest-recommended_articles-111-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=1z0SwnkHcGADs1
 95. https://www.linkedin.com/pulse/s%C3%ADndrome-da-superioridade-ilus%C3%B3ria-os-profissionais-de-luzzi?trk=eml-b2_content_ecosystem_digest-recommended_articles-100-null&midToken=AQHVmgfbS_Y_ZQ&fromEmail=fromEmail&ut=0fakK2uHkGADs1
+96. https://www.napratica.org.br/entenda-como-funcionam-as-consultorias-de-tecnologia/
 
 -------------------
 
