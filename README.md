@@ -4,7 +4,7 @@
 
 ## Create my portfolio
 
-## Read 12 books (11/12)
+## Read 12 books (12/18)
 1. Inferno by Dan Brown - finished
 2. The Shack by William P. Young - finished
 3. The Last Wish by Andrzej Sapkowski - finished
@@ -22,10 +22,10 @@
 15. Lady of the Lake by Andrzej Sapkowski
 16. Season of Storms by Andrzej Sapkowski 
 17. Cross Road by William P. Young - finished
-
+18. Ursula by Serena Valentino - finished
 -------------------
 
-## Finish at least 16 games from my library (13/12)
+## Finish at least 16 games from my library (14/12)
 ### Xbox360/XOne
 1. Rise of the Tomb Raider  - finished
 2. Life is Strange - finished
@@ -45,7 +45,7 @@
 14. Star Wars - The Force Unleashed 2 - finished
 15. The Legend of Zelda Spirit Tracks *playing
 16. Mighty Switch Force  *playing
-17. Lost in Shadow *playing
+17. Lost in Shadow - finished
 
 -------------------
 
