@@ -17,7 +17,7 @@
 10. Casual Vacancy by JK Rowling *reading
 11. The Restaurant at the End of the Universe by Douglas Adams *reading
 12. Game Start by Thais Weiller *reading
-13. Ready Player One by Ernest Cline 
+13. Ready Player One by Ernest Cline - finished
 14. The Swallow's Tower by Andrzej Sapkowski *reading
 15. Lady of the Lake by Andrzej Sapkowski
 16. Season of Storms by Andrzej Sapkowski 
@@ -25,7 +25,7 @@
 18. Ursula by Serena Valentino - finished
 -------------------
 
-## Finish at least 16 games from my library (14/12)
+## Finish at least 12 games from my library (14/12)
 ### Xbox360/XOne
 1. Rise of the Tomb Raider  - finished
 2. Life is Strange - finished
@@ -46,6 +46,7 @@
 15. The Legend of Zelda Spirit Tracks *playing
 16. Mighty Switch Force  *playing
 17. Lost in Shadow - finished
+18. Professor Layton and the Curious Village *playing
 
 -------------------
 
